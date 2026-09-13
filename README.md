@@ -33,9 +33,9 @@ A aplicação simula o monitoramento da latência de um servidor Edge de uma emp
 
 ```text
 10
-
-<img width="569" height="3042" alt="2bimestre drawio" src="https://github.com/user-attachments/assets/55f69eb8-8083-44bc-ace5-e29ab41fb62d" />
 20
 30
 40
 50
+```
+<img width="569" height="3042" alt="2bimestre drawio" src="https://github.com/user-attachments/assets/b58da909-8c45-4f87-99fa-33764ca505df" />
