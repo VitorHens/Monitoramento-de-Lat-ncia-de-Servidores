@@ -28,7 +28,7 @@ O projeto foi desenvolvido na disciplina de **Programação Visual Básica** e u
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/VitorHens/Monitoramento-de-Lat-ncia-de-Servidores.git
+git clone https://github.com/VitorHens/monitoramento-latencia-servidores.git
 ```
 
 2. Abra o projeto no **Visual Studio**.
