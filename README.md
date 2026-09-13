@@ -38,4 +38,5 @@ A aplicação simula o monitoramento da latência de um servidor Edge de uma emp
 40
 50
 ```
+Fluxograma 
 <img width="569" height="3042" alt="2bimestre drawio" src="https://github.com/user-attachments/assets/b58da909-8c45-4f87-99fa-33764ca505df" />
