@@ -1,5 +1,3 @@
-
-[Fluxo completp.drawio (1).pdf](https://github.com/user-attachments/files/32147842/Fluxo.completp.drawio.1.pdf)
 # Monitoramento de Latência de Servidores
 
 Projeto desenvolvido para a disciplina de **Programação Visual Básica – 2º Bimestre**.
@@ -35,6 +33,8 @@ A aplicação simula o monitoramento da latência de um servidor Edge de uma emp
 
 ```text
 10
+
+<img width="569" height="3042" alt="2bimestre drawio" src="https://github.com/user-attachments/assets/55f69eb8-8083-44bc-ace5-e29ab41fb62d" />
 20
 30
 40
