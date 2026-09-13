@@ -1,4 +1,3 @@
-<img width="569" height="3042" alt="2bimestre drawio" src="https://github.com/user-attachments/assets/58719b23-3156-4d72-bd7c-886b494a5269" />
 # Monitoramento de Latência de Servidores
 
 Projeto desenvolvido para a disciplina de **Programação Visual Básica – 2º Bimestre**.
@@ -42,4 +41,4 @@ A aplicação simula o monitoramento da latência de um servidor Edge de uma emp
 Fluxograma 
 
 
-<img width="569" height="3042" alt="2bimestre drawio" src="https://github.com/user-attachments/assets/5d63cf3c-c854-4473-ab27-8df804f3f442" />
+<img width="569" height="3042" alt="2bimestre drawio" src="https://github.com/user-attachments/assets/58719b23-3156-4d72-bd7c-886b494a5269" />
