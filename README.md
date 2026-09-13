@@ -1,35 +1,42 @@
-# Monitoramento de Latência de Servidores
+# 📡 Monitoramento de Latência de Servidores
 
-Projeto desenvolvido para a disciplina de **Programação Visual Básica – 2º Bimestre**.
+Aplicação desktop desenvolvida em **C# com WPF** para analisar tempos de resposta de um servidor. O usuário informa valores de latência em milissegundos, um por linha, e o sistema calcula automaticamente estatísticas importantes sobre os dados.
 
-A aplicação simula o monitoramento da latência de um servidor Edge de uma empresa de streaming. O usuário informa tempos de resposta, em milissegundos, com um valor por linha, e o sistema realiza uma análise estatística dos dados.
+O projeto foi desenvolvido na disciplina de **Programação Visual Básica** e utiliza **.NET 10 para Windows**.
 
-## Funcionalidades
+## 🚀 Funcionalidades
 
-- Entrada de vários valores de latência em uma única caixa de texto;
-- Cálculo da quantidade de requisições analisadas;
-- Identificação do menor e do maior tempo de resposta;
-- Cálculo da média aritmética;
-- Cálculo da variância amostral;
-- Cálculo do desvio padrão amostral;
-- Exibição dos resultados com duas casas decimais.
+- Entrada de múltiplos valores de latência
+- Contagem da quantidade de medições
+- Identificação do menor tempo de resposta
+- Identificação do maior tempo de resposta
+- Cálculo da média aritmética
+- Cálculo da variância amostral
+- Cálculo do desvio padrão amostral
+- Exibição dos resultados com duas casas decimais
 
-## Tecnologias utilizadas
+## 🛠️ Tecnologias
 
-- C#
-- WPF
-- XAML
-- .NET
+- **C#**
+- **WPF (Windows Presentation Foundation)**
+- **XAML**
+- **.NET 10**
+- **Visual Studio**
 
-## Como utilizar
+## ▶️ Como executar
 
-1. Abra o projeto no Visual Studio.
-2. Execute a aplicação.
-3. Digite ou cole os valores de latência na caixa de texto, colocando um valor por linha.
-4. Clique no botão **Calcular Estatísticas**.
-5. Os resultados serão mostrados na tela.
+1. Clone o repositório:
 
-## Exemplo de entrada
+```bash
+git clone https://github.com/VitorHens/Monitoramento-de-Lat-ncia-de-Servidores.git
+```
+
+2. Abra o projeto no **Visual Studio**.
+3. Execute a aplicação.
+4. Digite ou cole os valores de latência na caixa de texto, utilizando um valor por linha.
+5. Clique no botão de cálculo para visualizar as estatísticas.
+
+## 🧪 Exemplo de entrada
 
 ```text
 10
@@ -38,7 +45,22 @@ A aplicação simula o monitoramento da latência de um servidor Edge de uma emp
 40
 50
 ```
-Fluxograma 
 
+A aplicação processa esses valores e apresenta quantidade, mínimo, máximo, média, variância amostral e desvio padrão amostral.
 
-<img width="569" height="3042" alt="2bimestre drawio" src="https://github.com/user-attachments/assets/58719b23-3156-4d72-bd7c-886b494a5269" />
+## 🧠 Conceitos praticados
+
+- Estruturas de repetição
+- Conversão e manipulação de valores numéricos
+- Cálculos estatísticos
+- Manipulação de componentes WPF
+- Eventos de interface gráfica
+- Formatação de valores numéricos
+
+## 📐 Fluxograma
+
+<img width="569" height="3042" alt="Fluxograma do projeto" src="https://github.com/user-attachments/assets/58719b23-3156-4d72-bd7c-886b494a5269" />
+
+---
+
+Desenvolvido por **Vitor Hens**.
